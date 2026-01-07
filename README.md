@@ -1,6 +1,6 @@
 👋 Hi, I'm Miro V.
 
-QA Specialist | Automation & Mobile Testing
+QA Specialist | Manual, Automation & Mobile Testing
 
 I am a detail-oriented QA professional with a background in Paralegal practice and Project Management. I bring legal precision and structured problem-solving to software quality assurance.
 
@@ -30,4 +30,4 @@ LinkedIn: miro-voleac
 
 Email: miro.voleac@gmail.com
 
-📊 GitHub Stats
+
